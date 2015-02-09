@@ -1,0 +1,8 @@
+# ricc
+# -database  /data/rojan/public/software/rosetta/rosetta32_no_mpi/rosetta_database/
+
+# my pc
+# -database /Users/rojan/software/rosetta/rosetta32/rosetta3_2/rosetta_database
+
+# for bragg
+-database /home/xtal/rosetta3.2/rosetta_database/ 
