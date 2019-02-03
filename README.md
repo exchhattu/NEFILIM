@@ -1,10 +1,11 @@
 ## NEFILIM
 
-NEFILIM is iterative fragment-assembly de novo protein structure program. 
-It generates a new set of fragments from the lowest energy de novo models. 
-Subsequently, the fragments are further used in prediction. NEFILIM showed better 
-performance in comparison. NEFILIM was also tested in CASP11. 
- 
+NEFILIM (http://www.riken.jp/zhangiru/software.html) is iterative fragment-assembly 
+de novo protein structure program. It generates a new set of fragments from the 
+lowest energy de novo models. Subsequently, the fragments are further used in prediction. 
+NEFILIM performed better in comparison. NEFILIM was also tested in CASP11
+(http://predictioncenter.org/casp11/index.cgi).
+
 ## Dependencies
 * Rosetta3.2 (https://www.rosettacommons.org/software) 
 * g++  
