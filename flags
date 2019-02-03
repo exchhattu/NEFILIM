@@ -1,1 +1,1 @@
--database /data/rojan/public/software/rosetta/rosetta32_no_mpi/rosetta_database
+-database ### ROSETTA_INSTALL_PATH/rosetta_database
