@@ -14,8 +14,8 @@ NEFILIM performed better in comparison. NEFILIM was also tested in CASP11
 After installing the dependencies, their installed paths should replace ### ROSETTA_INSTALL_PATH
 and ### CPPUNIT_PATH in SConstruct file to assign rosetta_home and cppunit_top variables. 
 
-## Unit Test
-$ ./unittest.sh
+## Example 
+$ ./example.sh
 
 ## Reference
 * R. Shrestha, K. Y. Zhang, Improving fragment quality for de novo structure prediction. 
