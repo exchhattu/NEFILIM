@@ -1,6 +1,5 @@
-./models/
-./models/S_00000133.pdb
-./models/S_00000491.pdb
-./models/S_00000552.pdb
-./models/S_00000625.pdb
-./models/S_00000795.pdb
+./inputs/models/S_00000133.pdb
+./inputs/models/S_00000491.pdb
+./inputs/models/S_00000552.pdb
+./inputs/models/S_00000625.pdb
+./inputs/models/S_00000795.pdb
